@@ -35,7 +35,7 @@ python setup.py
 2. Run the main.py file and enter what you want to listen to:
 
 ```bash
-python setup.py
+python main.py
 ```
 
 ```bash
@@ -83,7 +83,7 @@ python setup.py
 2. Запустите файл main.py и введите то что вы хотите послушать:
 
 ```bash
-python setup.py
+python main.py
 ```
 
 ```bash
