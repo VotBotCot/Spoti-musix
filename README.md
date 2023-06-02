@@ -21,7 +21,7 @@ cd Tspoti
 
 3. Create [Application](https://developer.spotify.com/dashboard) in spotify get the keys.
 
-4. Run the setup.py file and enter your api_id and api_hash:
+4. Run the setup.py file and enter your keys:
 
 ```bash
 python setup.py
@@ -69,7 +69,7 @@ cd Tspoti
 
 3. Создайте [Приложение](https://developer.spotify.com/dashboard) в spotify получите ключи.
 
-4. Запустите файл setup.py и введите свой api_id и api_hash:
+4. Запустите файл setup.py и введите свой ключи:
 
 ```bash
 python setup.py
