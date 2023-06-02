@@ -1,4 +1,4 @@
-RUS
+ENG
 
 # Telegram in the terminal
 
