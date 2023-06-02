@@ -69,7 +69,7 @@ cd Tspoti
 
 3. Создайте [Приложение](https://developer.spotify.com/dashboard) в spotify получите ключи.
 
-4. Запустите файл setup.py и введите свой ключи:
+4. Запустите файл setup.py и введите свои ключи:
 
 ```bash
 python setup.py
