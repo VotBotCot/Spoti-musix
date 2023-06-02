@@ -1,87 +1,95 @@
-ENG
-Tspoti
+RUS
 
-This project allows you to search for music on Spotify using the terminal. It is convenient for those who frequently use the terminal and prefer not to switch to other applications.
-Installation
+# Telegram in the terminal
 
-To run the project, you need to have Python 3 and Git installed.
+This project allows you to use Spotify search(and listen to music) in the terminal.
 
-    Clone the repository:
+## Installation
 
-bash
+You must have Python 3 and Git installed to run the project.
 
-git clone https://github.com/VotBotCot/Tspoti.git
+1. Clone the repository:
 
-    Navigate to the project folder:
+```bash
+git clone https://github.com/VotBotCot/Tspoti.git.
+```
+2. Navigate to the project folder:
 
-bash
-
+```bash
 cd Tspoti
+```
 
-    Install the required libraries:
+3. Create [Application](https://developer.spotify.com/dashboard) in spotify get the keys.
 
-bash
+4. Run the setup.py file and enter your api_id and api_hash:
 
-bash setup.sh
+```bash
+python setup.py
+```
 
-Usage
 
-Run the main.py file and enter the search query:
+## Usage.
 
-bash
+1. Once you have successfully logged into Spotify, you can use it.
 
-python app.py
+2. Run the main.py file and enter what you want to listen to:
 
-For example, to search for a song, enter its title or artist:
+```bash
+python setup.py
+```
 
-bash
+```bash
+Phonk
+```
 
-python app.py "song title"
+## License
 
-License
-
-The project is licensed under GPL3, which allows you to use, modify, and distribute it as you wish, subject to certain restrictions. See the LICENSE file for more information.
+This project is distributed under the GPL3 license, which means you may use, modify, and distribute it as you see fit, but with some restrictions. See the LICENSE file for more information.
 
 RUS
-Tspoti
 
-Этот проект позволяет искать музыку на Spotify с помощью терминала. Он удобен для тех, кто часто использует терминал и предпочитает не переключаться на другие приложения.
-Установка
+# Telegram в терминале
 
-Для запуска проекта вам понадобятся установленные Python 3 и Git.
+Этот проект позволяет использовать Spotify поиск(и слушать музыку) в терминале.
 
-    Клонируйте репозиторий:
+## Установка
 
-bash
+Для запуска проекта у вас должны быть установлены Python 3 и Git.
 
+1. Клонируйте репозиторий:
+
+```bash
 git clone https://github.com/VotBotCot/Tspoti.git
+```
+2. Перейдите в папку проекта:
 
-    Перейдите в папку проекта:
-
-bash
-
+```bash
 cd Tspoti
+```
 
-    Установите необходимые библиотеки:
+3. Создайте [Приложение](https://developer.spotify.com/dashboard) в spotify получите ключи.
 
-bash
+4. Запустите файл setup.py и введите свой api_id и api_hash:
 
-bash setup.sh
+```bash
+python setup.py
+```
 
-Использование
 
-Запустите файл main.py и введите поисковой запрос:
+## Использование
 
-bash
+1. После того как вы успешно вошли в Spotify, вы можете использовать его.
 
-python app.py
+2. Запустите файл main.py и введите то что вы хотите послушать:
 
-Например, для поиска песни введите её название или исполнителя:
+```bash
+python setup.py
+```
 
-bash
+```bash
+Phonk
+```
 
-python app.py "название песни"
+## Лицензия
 
-Лицензия
-
-Этот проект распространяется по лицензии GPL3, что позволяет вам использовать, изменять и распространять его по своему усмотрению с некоторыми ограничениями. Более подробную информацию можно найти в файле LICENS
+Этот проект распространяется по лицензии GPL3, что означает, что вы можете использовать, изменять и распространять его по своему усмотрению, но с некоторыми ограничениями. Более подробную информацию смотрите в файле LICENSE.
